@@ -1,0 +1,9 @@
+2020-06-20 21:11:16,894 - E:/gitProject/uitest/common/logger.py[line:36] - INFO: test
+2020-06-20 23:16:28,813 - E:/gitProject/uitest/common/base_page.py[line:44] - INFO: 获取当前url:https://www.baidu.com/
+2020-06-20 23:16:28,827 - E:/gitProject/uitest/common/base_page.py[line:30] - INFO: 打开网页异常，urlhttps://www.baidu.com不对
+2020-06-20 23:19:45,897 - E:/gitProject/uitest/common/base_page.py[line:44] - INFO: 获取当前url:https://www.baidu.com/
+2020-06-20 23:19:45,910 - E:/gitProject/uitest/common/base_page.py[line:30] - INFO: 打开网页异常，urlhttps://www.baidu.com不对
+2020-06-20 23:24:05,273 - E:/gitProject/uitest/common/base_page.py[line:44] - INFO: 获取当前url:https://www.baidu.com/
+2020-06-20 23:24:05,288 - E:/gitProject/uitest/common/base_page.py[line:30] - INFO: 打开网页异常，urlhttps://www.baidu.com不对
+2020-06-20 23:24:05,289 - E:/gitProject/uitest/common/base_page.py[line:278] - INFO: 在此时进行截图！！
+2020-06-20 23:24:05,681 - E:/gitProject/uitest/common/base_page.py[line:282] - INFO: 已成功生成截图，请确认！
